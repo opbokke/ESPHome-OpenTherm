@@ -9,6 +9,7 @@ esphome:
   platformio_options:
     lib_deps: 
     - https://github.com/opbokke/opentherm_library
+    - ESP Async WebServer
   includes:
     - esphome-opentherm/
 
